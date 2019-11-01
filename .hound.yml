@@ -1,0 +1,29 @@
+fail_on_violations:
+  enabled: true
+
+flake8:
+  enabled: true
+
+phpcs:
+  enabled: true
+
+erblint:
+  enabled: true
+
+reek:
+  enabled: true
+
+rubocop:
+  enabled: true
+
+jshint:
+  enabled: true
+
+eslint:
+  enabled: true
+
+tslint:
+  enabled: true
+
+scss:
+  enabled: true
